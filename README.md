@@ -20,3 +20,6 @@ This layer contains all the information about the UI and everything to show to t
 
 The presentation layer interact via domain layer, i.e entities and use cases.
 
+![Simulator Screen Shot - iPhone 13 Pro - 2023-02-04 at 03 24 55](https://user-images.githubusercontent.com/64086484/216766661-b4e0fc93-3268-4bea-ad2e-f37735873a6d.png)![Simulator Screen Shot - iPhone 13 Pro - 2023-02-04 at 03 26 49](https://user-images.githubusercontent.com/64086484/216766666-f6b94a0d-3e01-4223-a3e0-faa3992a2179.png)
+
+

@@ -1,9 +1,9 @@
 # Flutter-TDD-Clean-Football
  In clean code architecture, there are three main layers
 
-Data
-Domain
-Presentation along with
+* Data
+* Domain
+* Presentation along with
 common (can also be called as core)
 Domain
 This is innermost layer and will contain the core business logic i.e. usecases and business object also called as entities, the usecase depends on the contract of repository (not implementation)

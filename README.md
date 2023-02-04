@@ -23,3 +23,6 @@ The presentation layer interact via domain layer, i.e entities and use cases.
 ![Simulator Screen Shot - iPhone 13 Pro - 2023-02-04 at 03 24 55](https://user-images.githubusercontent.com/64086484/216766661-b4e0fc93-3268-4bea-ad2e-f37735873a6d.png)
 
 
+** Folder structure
+![Screen Shot 2023-02-04 at 4 08 33 AM](https://user-images.githubusercontent.com/64086484/216766863-f9bf9a57-8bee-44af-9319-8d6c02a8d8a4.png)
+
